@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automationhometest",
+  "private_key_id": "203e246ecca248a6fb2911a6de18ff79cddd2381",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC1xlF6cHrC2U+G\nTRECfcCXWe2t2m6syX+EOzkG2tUMdsQMSBJI3yLQ99bD7+Q4haLdASNeD9W5jWHP\nbnjJ56vlP3Q4V0KrpBmH56Qln38h1hp6K4nYczScmGdksfQuXWUoa02W66TSwGhO\nQeuNHmDClw4HGj0d3gJUvNYCRPFe/EpFSmWplK3Brofms5LJpreuWur4PG2ae0UE\nLh3f8H4KfaBhAI7lcwPOk79c8A2YBzOzizW4Wu+0kzBJd6rWnpvDtkHQ+bqe8Z+h\nTVmklM0ZeLbirkn/d6P9X6BhhnDXO9LTRL2SvVn5ScNe+6BoIjVHKpAVwfjD/DJ/\nRPG+RTSxAgMBAAECgf8kKq6SyWRhtH+9Os8P0pK34j0kdaAs8GbaoSEfzHzcyPfW\nIfXnyAjIGcmUo/xYt6vZ8b1JGOhvJYvZog023SF846UDbC1dN3cI2rCy0vjK4cV8\ndwxIf0R+CF+9PVqCPjPR48IvEAe9MC/LNmwTbzfjnPOdGrp4WZTBuMl1gea3tCD7\n9IfiV3JwIwmqzmonR276OWWIwgicaKWTfLjZDJyMQiEv+aM1VPjg1/b4CJYCtpO2\nkzqRi+anM2aIhN01jwP35cbHdT8Ghi5CTvQJdfffjfjEsKlPeE0ZUOttTl5UqZBb\nVGkjeKEtL5u3RO6ErtsJGSDahRNLKOGcxDw7ZVECgYEA7U18eMyx7uOW7HRoEslh\nN2+M3vQBVwxX/NJz1QY3UIuJlE+1LFiV5rRLbEPbU0IEwOMbj09f/1Mqr5r4D8O7\nBooHtE8ipHPFtGHW7fHk+WQxz8+UtFaQzmj1sS01T1lZ7X4QxaXhDnSeWoayMMNM\nOQDhLbpu7zbtZ3qoC7GKtakCgYEAxBjN9SMsHH0HZQCPFRQ6OOqLsPgAhJmgv34h\neBkDzUNwlo3FLLZNQRgxWRoqrItJ6kNgQOr9PwCmYA6lrCnuDJA97QJwUobvuFro\noJnz+WACJOLmK7etu0dJWiXvb1ov0zcUUzKh8E8QprDEQrlncCw9k0dx+xZ8FwOn\niWZt28kCgYALB3zviGQEvGM5XjewF9gC4ZZkjma5iwNT5twnXICZp8KfOA0toHhn\nHp4azBSXjAv4gxW21XOaxFzJiKRa5zf8F9I/2SW9Cvx3Y8y/hmykArol9Hnu388f\nKNWyhG1j4L1DQoa5CPqq11S81GHXzlvuklHk9DNPvvfNxW+mC3xs8QKBgEX4t90F\n3OKZdn8C0QtreU7/2jKee8jU7LgHsLei7Wlb7Bu8oKPQtQZKNKmfnaSN2yUdP4ZK\nk2zctYFHGLSzDX8sJPyiRyQbhARbY/CSnqzYJku1Lv5gfzx5NmJVcPdhzfjnCXia\nc5BFFiL0pkNM1uz+zEX2U2SN5F9t7WUoyICJAoGBAKJojXFZzgMfz49BVr4/vxMF\nGjfsxIzCotnXCymsEKQHEc6TZAhYSdl7o1FX+pY5TwYwgCk55qFC73bpQfwygT4L\n32RQPFykZ0D6tsIfAyW+6J9Ld9ffLalbqMTCHlDHNGqbMxlWuOtb5x0Cg6Lrf2Bc\njWkjmIgr6lDzXE0BBiEj\n-----END PRIVATE KEY-----\n",
+  "client_email": "riti0208@automationhometest.iam.gserviceaccount.com",
+  "client_id": "116455655770436286513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/riti0208%40automationhometest.iam.gserviceaccount.com"
+}
