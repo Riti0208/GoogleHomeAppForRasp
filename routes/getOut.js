@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var jsonfile = require('jsonfile');
-var yukariVoice = require('./yukariVoice');
+var yukariVoice = require('../yukariVoice');
 var sendFlag = true;
 /* GET users listing. */
 router.get('/', function(req, res, next) {
