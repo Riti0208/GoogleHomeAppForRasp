@@ -18,12 +18,13 @@ router.get('/', function(req, res, next) {
       spaces: null
   }, function (err) {
   });
-  res.send('');
+  
   if(sendFlag){
     yukariVoice('おかえりなさい');
   } else {
     yukariVoice('いってらっしゃい');
   }
+  res.send('');
 });
 
 module.exports = router;
