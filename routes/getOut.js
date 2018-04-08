@@ -20,9 +20,9 @@ router.get('/', function(req, res, next) {
   });
   
   if(sendFlag){
-    yukariVoice('おかえりなさい');
+    yukariVoice.playVoice('おかえりなさい');
   } else {
-    yukariVoice('いってらっしゃい');
+    yukariVoice.playVoice('いってらっしゃい');
   }
   res.send('');
 });
